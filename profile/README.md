@@ -1,20 +1,32 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="300"/>
+<H1><div align="center"> UNIVAWEBS™️ </div align="center"></H1>
+<div align="center">
+<img src="https://www.publicdomainpictures.net/pictures/390000/velka/programming-coding.jpg" width="200" height="135"/>
 </div>
+
+---
+---
+
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+  <p1><B> Private LinkedIn https://www.linkedin.com/in/jompinity/ </B></h2></div>
+<div align="center">
+  <p1><B> Business LinkedIn https://www.linkedin.com/company/univawebs/ </B></h2></div>
+  
+  ---
+  ---
 
-- :telescope: We are Univa. Fresh & Dedicated team ready to launch our jouney in the cloud
+<div align="center">
 
-- :seedling: We believe in growth by design
+ :heart: We are Univa. Fresh & Dedicated team ready to launch our jouney in the cloud
 
-- :zap: We love web development, cloud computng and remote work oppertunity with a good eye for design
+ :seedling: We believe growth should be accessible to anyone anywhere
 
-- :mailbox:How to reach me: Ortensfinest47@gmail.com
+ :robot: We love web development, cloud computng and remote work oppertunity with a good eye for design
 
+ :email:How to reach me: Ortensfinest47@gmail.com </div>
 
+---
+---
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -35,11 +47,23 @@
 </div>
 
 ---
+---
 
-### :fire: My Contribution :
+### :fire: 47spykeylife univawebs supreme
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=spykeylife47&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spykeylife47&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
+---
+---
+
+
+### :fire: Coding languages supreme
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spykeylife47&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+---
+---
+---
+---
+<font type="consolas"><div align="center"><p>©️ COPYRIGHT UNIVAWEBS™️ 2022 ALL RIGHTS RESERVED®️</p></div></font>
